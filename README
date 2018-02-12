@@ -1,0 +1,5 @@
+This program builds a map with three layers:
+- openstreetmap
+- layer that colors countries depending on the number of movie created there for all time
+    (red if more than 20000, orange if less than 20000 and bigger than 3000 , green if less than 3000)
+- the layer with markers of locations of movie created in given year
